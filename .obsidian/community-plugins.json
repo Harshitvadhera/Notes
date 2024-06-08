@@ -3,5 +3,9 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "media-notes",
+  "share-note",
+  "callout-manager",
+  "obsidian-list-callouts"
 ]
