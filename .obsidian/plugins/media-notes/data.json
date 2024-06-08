@@ -1,0 +1,20 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 60,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Horizontal",
+  "pauseOnTimestampInsert": false,
+  "displayProgressBar": true,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "EWnfDUQgArs": {
+      "mediaLink": "https://www.youtube.com/watch?v=EWnfDUQgArs&list=PLw9zMOoodWb4OtAt8aDKqklEJDqZHYXBm&index=3&t=5",
+      "lastUpdated": "2024-06-08T19:18:52.972Z",
+      "lastTimestampSeconds": 87
+    }
+  }
+}

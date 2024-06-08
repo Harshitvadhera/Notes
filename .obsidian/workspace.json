@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69c9560d6a3563d6",
+        "id": "df2acc08fcbb29c7",
         "type": "tabs",
         "children": [
           {
-            "id": "db0a271abdc06ea8",
+            "id": "90a6c01328e3f3a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "baca2f40a44982bf",
+  "active": "0c312a588eb8bc7d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Video. (17) Color & Background-color - CSS3 tutorial in hindi - urdu - Class - 03.md",
     "Practice.md",
     "Untitled.canvas",
     "Data Structures/Headers/Vector.md",
