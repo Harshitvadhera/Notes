@@ -1,0 +1,10 @@
+{
+  "accentColor": "#e4e2e9",
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Helvetica Neue",
+  "textFontFamily": "Avenir",
+  "baseFontSizeAction": true
+}

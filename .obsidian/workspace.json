@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "433c1a539227a437",
+    "type": "split",
+    "children": [
+      {
+        "id": "416ee9ef0bdc3071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb176ee389f33478",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3b004408d0c2549",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ef7e6eba6b3836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baca2f40a44982bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81aea94fe98563ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aada583bbfb3e926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.50260543823242,
+    "collapsed": true
+  },
+  "right": {
+    "id": "50e7c47da262f0ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eabc9066b115b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42ecab53e7d7182",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b1d20c2a4bde8cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d2a28b2c05fd56a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e4f61fe6fceba3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "654231e1ca079d71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "baca2f40a44982bf",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Data Structures/Headers/Vector.md",
+    "Data Structures/Arrays/Array Foundations.md",
+    "Data Structures/Headers",
+    "Data Structures/Headers/Cpp Headers.md",
+    "Data Structures/Headers/limits.h.md",
+    "Music/Yaman.md",
+    "Untitled 1",
+    "Music",
+    "Data Structures/Arrays/Arrays & Functions.md",
+    "Data Structures/Arrays",
+    "Data Structures/Graphs.md",
+    "Data Structures/Trees.md",
+    "Data Structures",
+    "Hi This is Important.md",
+    "CSS - Cascading Style Sheets.md",
+    "Excalidraw/Drawing 2024-06-06 21.56.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-06 22.01.21.excalidraw.md",
+    "Excalidraw",
+    "This is Required.md",
+    "Untitled 2.canvas",
+    "2023-10-01.md",
+    "Untitled 1.canvas",
+    "Hi This is Notes.md"
+  ]
+}
