@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Arrays/Array Foundations.md",
+                "file": "Data Structures/Headers/Cpp Headers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Arrays/Array Foundations.md",
+                "file": "Data Structures/Headers/Cpp Headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Arrays/Array Foundations.md",
+                "file": "Data Structures/Headers/Cpp Headers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Arrays/Array Foundations.md"
+                "file": "Data Structures/Headers/Cpp Headers.md"
               }
             }
           },
@@ -170,19 +170,19 @@
   },
   "active": "90a6c01328e3f3a6",
   "lastOpenFiles": [
+    "Data Structures/Headers/Vector.md",
+    "Data Structures/Headers/Cpp Headers.md",
+    "Data Structures/Arrays/Array Foundations.md",
+    "Data Structures/Arrays/Arrays & Functions.md",
     "Untitled.md",
     "Video. (17) Color & Background-color - CSS3 tutorial in hindi - urdu - Class - 03.md",
     "Practice.md",
     "Untitled.canvas",
-    "Data Structures/Headers/Vector.md",
-    "Data Structures/Arrays/Array Foundations.md",
     "Data Structures/Headers",
-    "Data Structures/Headers/Cpp Headers.md",
     "Data Structures/Headers/limits.h.md",
     "Music/Yaman.md",
     "Untitled 1",
     "Music",
-    "Data Structures/Arrays/Arrays & Functions.md",
     "Data Structures/Arrays",
     "Data Structures/Graphs.md",
     "Data Structures/Trees.md",
