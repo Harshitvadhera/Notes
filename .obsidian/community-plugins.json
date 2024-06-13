@@ -3,10 +3,10 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-style-settings",
-  "obsidian-git",
   "media-notes",
   "share-note",
   "callout-manager",
   "obsidian-list-callouts",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

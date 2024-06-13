@@ -1,4 +1,3 @@
-# Sargam Geet
 # TeenTaal
 **x - Sam** 
 **2,3 - Tali**
