@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "433c1a539227a437",
+    "id": "81f68288c7a1ca6a",
     "type": "split",
     "children": [
       {
-        "id": "df2acc08fcbb29c7",
+        "id": "90cbbce1d12ac087",
         "type": "tabs",
         "children": [
           {
-            "id": "90a6c01328e3f3a6",
+            "id": "e231d7928964e7c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Headers/Cpp Headers.md",
+                "file": "Music/Raag Yaman.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3b004408d0c2549",
+    "id": "4a4e54559b500313",
     "type": "split",
     "children": [
       {
-        "id": "e3ef7e6eba6b3836",
+        "id": "a83425451883c49b",
         "type": "tabs",
         "children": [
           {
-            "id": "baca2f40a44982bf",
+            "id": "1b7e679713f28e1b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "81aea94fe98563ef",
+            "id": "910fefe67532dc6e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "aada583bbfb3e926",
+            "id": "5a3313c2bc0c38f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "50e7c47da262f0ac",
+    "id": "1f0e2618f7602176",
     "type": "split",
     "children": [
       {
-        "id": "8eabc9066b115b83",
+        "id": "b3e2e766d43b5d85",
         "type": "tabs",
         "children": [
           {
-            "id": "e42ecab53e7d7182",
+            "id": "61ce64f6b5548520",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Headers/Cpp Headers.md",
+                "file": "Music/Raag Yaman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,19 @@
             }
           },
           {
-            "id": "0b1d20c2a4bde8cb",
+            "id": "cc63eb286f200754",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Headers/Cpp Headers.md",
+                "file": "Music/Raag Yaman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2d2a28b2c05fd56a",
+            "id": "560f270f1d6ea695",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,81 +121,70 @@
             }
           },
           {
-            "id": "8e4f61fe6fceba3d",
+            "id": "d081174051759460",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Headers/Cpp Headers.md"
+                "file": "Music/Raag Yaman.md"
               }
-            }
-          },
-          {
-            "id": "654231e1ca079d71",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c312a588eb8bc7d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "90a6c01328e3f3a6",
+  "active": "e231d7928964e7c6",
   "lastOpenFiles": [
-    "Data Structures/Headers/Vector.md",
-    "Data Structures/Headers/Cpp Headers.md",
     "Data Structures/Arrays/Array Foundations.md",
     "Data Structures/Arrays/Arrays & Functions.md",
-    "Untitled.md",
-    "Video. (17) Color & Background-color - CSS3 tutorial in hindi - urdu - Class - 03.md",
-    "Practice.md",
-    "Untitled.canvas",
-    "Data Structures/Headers",
+    "Templates/TeenTaal.md",
+    "Templates/Ektaal.md",
+    "Templates",
     "Data Structures/Headers/limits.h.md",
-    "Music/Yaman.md",
-    "Untitled 1",
-    "Music",
+    "Data Structures/Headers/Vector.md",
+    "Data Structures/Headers/Cpp Headers.md",
+    "Data Structures/Headers",
     "Data Structures/Arrays",
-    "Data Structures/Graphs.md",
-    "Data Structures/Trees.md",
     "Data Structures",
-    "Hi This is Important.md",
-    "CSS - Cascading Style Sheets.md",
-    "Excalidraw/Drawing 2024-06-06 21.56.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-06 22.01.21.excalidraw.md",
-    "Excalidraw",
-    "This is Required.md",
-    "Untitled 2.canvas",
-    "2023-10-01.md",
-    "Untitled 1.canvas",
-    "Hi This is Notes.md"
+    "Music/Raag Yaman.md",
+    "Music",
+    "Notes/Templates/TeenTaal.md",
+    "Notes/Templates/Ektaal.md",
+    "Notes/Templates",
+    "Notes/Music/Templates/TeenTaal.md",
+    "Notes/Music/Templates/Ektaal.md",
+    "Notes/Music/Templates",
+    "Notes/Music/Yaman.md",
+    "Notes/Music",
+    "Notes/Data Structures/Headers/limits.h.md",
+    "Notes/Data Structures/Headers/Vector.md",
+    "Notes/Data Structures/Headers/Cpp Headers.md",
+    "Notes/Data Structures/Arrays/Arrays & Functions.md",
+    "Notes/Data Structures/Arrays/Array Foundations.md",
+    "Notes/Data Structures/Headers",
+    "Notes/Data Structures/Arrays",
+    "Music/TeenTaal.md",
+    "Welcome.md"
   ]
 }

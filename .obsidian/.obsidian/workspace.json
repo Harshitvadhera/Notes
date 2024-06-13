@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "81f68288c7a1ca6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "90cbbce1d12ac087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e231d7928964e7c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a4e54559b500313",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83425451883c49b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7e679713f28e1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910fefe67532dc6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a3313c2bc0c38f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1f0e2618f7602176",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e2e766d43b5d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ce64f6b5548520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc63eb286f200754",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "560f270f1d6ea695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d081174051759460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e231d7928964e7c6",
+  "lastOpenFiles": [
+    "Notes/Templates/TeenTaal.md",
+    "Notes/Templates/Ektaal.md",
+    "Notes/Templates",
+    "Templates/Ektaal.md",
+    "Notes/Music/Templates/TeenTaal.md",
+    "Notes/Music/Templates/Ektaal.md",
+    "Notes/Music/Templates",
+    "Music/Raag Yaman.md",
+    "Notes/Music/Yaman.md",
+    "Notes/Music",
+    "Notes/Data Structures/Headers/limits.h.md",
+    "Notes/Data Structures/Headers/Vector.md",
+    "Notes/Data Structures/Headers/Cpp Headers.md",
+    "Notes/Data Structures/Arrays/Arrays & Functions.md",
+    "Notes/Data Structures/Arrays/Array Foundations.md",
+    "Notes/Data Structures/Headers",
+    "Notes/Data Structures/Arrays",
+    "Notes/Data Structures",
+    "Notes",
+    "Templates/TeenTaal.md",
+    "Music/TeenTaal.md",
+    "Templates",
+    "Music",
+    "Welcome.md",
+    "Data Structures"
+  ]
+}
