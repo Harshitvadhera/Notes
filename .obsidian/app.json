@@ -3,5 +3,6 @@
   "defaultViewMode": "source",
   "showRibbon": false,
   "readableLineLength": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "showLineNumber": false
 }

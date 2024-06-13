@@ -41,5 +41,10 @@
   "shimmering-focus@@angular-shapes": false,
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-header-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-safari-tab-animated": true
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": true,
+  "anuppuccin-theme-settings@@anp-list-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-width": true,
+  "anuppuccin-theme-settings@@anp-table-auto": true,
+  "anuppuccin-theme-settings@@anp-table-th-highlight": false
 }
