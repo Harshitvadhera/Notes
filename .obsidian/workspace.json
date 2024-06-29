@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87699170d357a433",
+        "id": "6efdac1733ba11cc",
         "type": "tabs",
         "children": [
           {
-            "id": "a2691b2eb2234fe1",
+            "id": "43b5551e13c1af07",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242,
-    "collapsed": true
+    "width": 201.50260543823242
   },
   "right": {
     "id": "50e7c47da262f0ac",
@@ -82,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scalability/Scaling to 10 Billion Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scalability/Scaling to 10 Billion Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scalability/Scaling to 10 Billion Users.md"
+              }
             }
           },
           {
@@ -147,6 +150,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,22 +165,30 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0c312a588eb8bc7d",
+  "active": "baca2f40a44982bf",
   "lastOpenFiles": [
-    "Templates/TeenTaal.md",
-    "Templates/Ektaal.md",
-    "Templates",
-    "Music/Raag Yaman.md",
-    "Data Structures/Headers/Cpp Headers.md",
+    "Scalability/10M User/Kafka & RabbitMq UseCase Scenario.md",
+    "Scalability/Scaling to 10 Billion Users.md",
+    "Untitled",
+    "Scalability/10M User/10M User Scalability Part - 2.md",
+    "Scalability/10M User/10M User Scalability Part -1.md",
+    "Scalability/10M User",
+    "Scalability/IndexForScalability.md",
+    "Scalability/Scalability.md",
+    "Scalability",
     "Data Structures/Headers/Vector.md",
-    "Data Structures/Arrays/Array Foundations.md",
+    "Data Structures/Headers/limits.h.md",
+    "Data Structures/Headers/Cpp Headers.md",
     "Data Structures/Arrays/Arrays & Functions.md",
-    "Untitled.md",
+    "Data Structures/Arrays/Array Foundations.md",
+    "Music/Raag Yaman.md",
+    "Templates/Ektaal.md",
+    "Templates/TeenTaal.md",
+    "Templates",
     "Video. (17) Color & Background-color - CSS3 tutorial in hindi - urdu - Class - 03.md",
     "Practice.md",
     "Untitled.canvas",
     "Data Structures/Headers",
-    "Data Structures/Headers/limits.h.md",
     "Music/Yaman.md",
     "Untitled 1",
     "Music",
