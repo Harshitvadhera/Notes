@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scalability/Scaling to 10 Billion Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scalability/Scaling to 10 Billion Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scalability/Scaling to 10 Billion Users.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +161,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "baca2f40a44982bf",
+  "active": "0c312a588eb8bc7d",
   "lastOpenFiles": [
-    "Scalability/10M User/Kafka & RabbitMq UseCase Scenario.md",
     "Scalability/Scaling to 10 Billion Users.md",
+    "Scalability/10M User/Kafka & RabbitMq UseCase Scenario.md",
     "Untitled",
     "Scalability/10M User/10M User Scalability Part - 2.md",
     "Scalability/10M User/10M User Scalability Part -1.md",
